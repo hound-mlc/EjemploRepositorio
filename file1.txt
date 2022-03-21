@@ -3,3 +3,7 @@ file1 updated
 const adios = () => {
     console.log('adios')
 }
+
+const hola = () => {
+    console.log('hola')
+}
