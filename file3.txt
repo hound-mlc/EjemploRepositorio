@@ -1,2 +1,3 @@
 file3 conflicto
 file3 renew
+file3 again renew
